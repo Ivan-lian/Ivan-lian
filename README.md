@@ -1,4 +1,8 @@
 ## Hi there 👋
+###技能樹
+-python
+-AI
+
 
 <!--
 **Ivan-lian/Ivan-lian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
